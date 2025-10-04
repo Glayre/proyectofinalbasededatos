@@ -1,5 +1,5 @@
-# proyectofinalbasededatos
 proyectofinalbasededatos
+--Consultas SQL para el proyecto final de base de datos
 
 -- Lista todos los usuarios registrados
 SELECT * FROM usuarios;
